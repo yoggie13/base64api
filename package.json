@@ -1,0 +1,27 @@
+{
+  "name": "resumify_cvbuilder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoggie13/resumify_cvbuilder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoggie13/resumify_cvbuilder/issues"
+  },
+  "homepage": "https://github.com/yoggie13/resumify_cvbuilder#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "filereader": "^0.10.3",
+    "image-to-base64": "^2.2.0",
+    "node-fetch": "^2.6.9"
+  }
+}
